@@ -19,11 +19,9 @@
 
 - <p style="color: red;">Brief explanation about the project</p>
 
-The project consists in present information about repositories on GitHub in a simplified way. These datas come from a public API of GitHub. You Could search about this API here (API);
+The project consists to create public and private stories from your life and you can share that with your community.
 
-To see the **project**, click ➡️: [here](https://github-explorer-samk.netlify.app/)</br>
-
-⚠️ make sure you entry your repository name correctilly like that : **REPOS_NAME/PROJECT_NAME**
+To see the **project**, click ➡️ : [here](https://lit-brushlands-59851.herokuapp.com/)</br>
 
 ## 🚀 Technologies
 
