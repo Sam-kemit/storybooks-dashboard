@@ -10,8 +10,7 @@
 
 <hr>
 
-[![Watch this video](https://avatar-websites.s3.eu-west-3.amazonaws.com/github-explorer.png)](https://avatar-websites.s3.eu-west-3.amazonaws.com/github-explorer-v1.webm)
-
+![Dashboard app](/public/img/storybooks.png)
 
 
 
