@@ -19,7 +19,7 @@
 
 - <p style="color: red;">Brief explanation about the project</p>
 
-The project consists to create public and private stories from your life and you can share that with your community.
+> The project consists to create public and private stories from your life and you can share that with your community.
 
 To see the **project**, click ➡️ : [here](https://lit-brushlands-59851.herokuapp.com/)</br>
 
@@ -41,6 +41,22 @@ Technologies that I used to develop this web client
 ```bash
 $ git clone https://github.com/Sam-kemit/REPOS_NAME.git && cd REPOS_NAME
 ```
+
+**Usage**
+
+Add your mongoDB URI and Google OAuth cedentials to rthe **config.env file**
+
+```
+# Install dependencies
+npm install
+
+# Run in development
+npm run dev
+
+# Run in production
+npm start
+```
+
 
 **Follow the steps below**
 
